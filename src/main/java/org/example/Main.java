@@ -7,6 +7,8 @@ public class Main {
         System.out.println("팀원들에게 하고싶은 말 ...");
         System.out.println("다시");
 
+        System.out.println("프로그래머즈으으!!!!! ㅠ");
+
         
 
     }
