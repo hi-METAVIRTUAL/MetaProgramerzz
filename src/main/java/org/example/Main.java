@@ -12,6 +12,8 @@ public class Main {
 
         System.out.println("프로그래머즈으으!!!11!! ㅠ");
 
+        System.out.println("메타메타몽");
+
         
 
 
